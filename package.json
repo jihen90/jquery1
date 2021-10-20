@@ -1,0 +1,7 @@
+{
+  "name": "desafiojquery",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
